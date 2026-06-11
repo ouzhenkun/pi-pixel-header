@@ -1,0 +1,23 @@
+{
+  "name": "pi-pixel-header",
+  "version": "1.0.0",
+  "description": "Pixel Pi logo header with random Catppuccin Mocha accents",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "author": "ouzhenkun",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ouzhenkun/pi-pixel-header.git"
+  },
+  "homepage": "https://github.com/ouzhenkun/pi-pixel-header",
+  "bugs": {
+    "url": "https://github.com/ouzhenkun/pi-pixel-header/issues"
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "pi": {
+    "extensions": ["./index.ts"],
+    "image": "https://raw.githubusercontent.com/ouzhenkun/pi-pixel-header/main/screenshot.png"
+  }
+}
