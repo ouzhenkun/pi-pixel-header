@@ -1,5 +1,5 @@
 /**
- * pi-hero
+ * pi-pixel-header
  *
  * Custom TUI header with pixel Pi logo and Catppuccin Mocha accents.
  */
